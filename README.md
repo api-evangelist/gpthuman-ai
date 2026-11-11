@@ -1,4 +1,4 @@
-# gpthuman-ai
+# GPTHuman AI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,120 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-gpthuman-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://gpthuman.ai/
+GPTHuman provides an AI Humanizer platform that transforms AI‑generated text into natural, human‑like writing. It offers a suite of products—including an AI Humanizer, AI Detector, Paraphraser, and a developer API—for students, writers, and SEO professionals who need content that passes AI detection tools and meets language quality standards.
+
+**Areas:** AI Humanizer · AI Detector · Paraphraser · Developer API · SEO
+
+## GPTHuman AI on APIs.io
+
+Everything profiled for GPTHuman AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gpthuman-ai/](https://apis.io/providers/gpthuman-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [GPTHuman AI API](https://apis.io/apis/gpthuman-ai/gpthuman-ai-api/) — GPTHuman AI API as documented publicly: 3 operations. Contract generated from the documentation by API Evangelist (2026-11-10); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (3)
+
+The data models the API reads and writes.
+
+- [GetV1HumanizeResponse](https://apis.io/schemas/gpthuman-ai/gpthuman-ai-get-v1-humanize-response/)
+- [PostMcpRequest](https://apis.io/schemas/gpthuman-ai/gpthuman-ai-post-mcp-request/)
+- [PostV1HumanizeResponse](https://apis.io/schemas/gpthuman-ai/gpthuman-ai-post-v1-humanize-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Gpthuman Ai Context](https://apis.io/jsonld/gpthuman-ai/gpthuman-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [GPTHuman AI API Rules](https://apis.io/rules/gpthuman-ai/gpthuman-ai-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [GPTHuman AI Domain Security](https://apis.io/security/gpthuman-ai/gpthuman-ai-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [GPTHuman AI Plans Pricing](https://apis.io/plans/gpthuman-ai/gpthuman-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gpthuman.ai/)
+- [Documentation](https://docs.gpthuman.ai/)
+- [Getting started](https://help.gpthuman.ai/getting-started)
+- [API reference](https://docs.gpthuman.ai/llms.txt)
+- [Pricing](https://gpthuman.ai/pricing/)
+- [Support](https://help.gpthuman.ai)
+- [Blog](https://gpthuman.ai/blog/)
+- [Terms of service](https://gpthuman.ai/terms-conditions/)
+- [Privacy policy](https://gpthuman.ai/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 51.3** — developing · rubric 0.27.0 · scored 2026-11-10
+
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 53.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 35.7 |
+| Access clarity | 73.2 |
+
+**Agent readiness 30.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/gpthuman-ai/](https://apis.io/providers/gpthuman-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for GPTHuman AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/gpthuman-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
